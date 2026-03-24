@@ -24,10 +24,17 @@ function App() {
   const [gameOver, setGameOver] = useState(false);
   const [gameComplete, setGameComplete] = useState(false);
 
+  //aqui vai carregar as perguntas aleatórias do nível atual 
   const loadPhaseQuestions = (level) => {
     const bank = levelBank[level] => {
+      const shuffled = [...bank].sort(() => 0.5 - Math.random());
+      return shuffled.slice(0, 5);
+    };
 
-    }
+    
+
+
+
   }
  
 }
