@@ -3,7 +3,11 @@
 
 Um aplicativo web interativo para aprendizado de idiomas, inspirado no estilo gamificado do Duolingo. Desenvolvido com React e JavaScript.
 
+## Demonstração 
 
+[hudsonperesprojeto604.vercel.app](https://hudsonperesprojeto604.vercel.app/)
+
+##
 
 ## Funcionalidades
 
