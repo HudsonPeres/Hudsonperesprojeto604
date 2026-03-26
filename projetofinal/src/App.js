@@ -91,18 +91,8 @@ function App() {
   const handleAnswer = (selected) => {  
     if (answerLocked) return;
     const currentQuestion = phaseQuestions[currentQuestionIndex];
-    const isCorrect = selected === currentQuestion.correct;
+    const isCorrect = selected === currentQuestion.correct; 
 
-    
-/*    const audio = new Audio();
-    if (isCorrect) {
-      audio.src = '/sounds/correct.mp3';  
-    } else {
-      audio.src = '/sounds/wrong.mp3';    
-      setLives(prev => prev - 1);
-    }
-    audio.play();
-*/
     setAnswerLocked(true);
 
 
