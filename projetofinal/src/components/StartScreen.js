@@ -11,7 +11,7 @@ function StartScreen({ onStart }) {
     return (
 <div className="container text-center mt-5" style={{ maxWidth: '500px' }}>
       <h1 className="display-4 text-success">PatYdiomas</h1>
-      <p className="lead">Aprenda idiomas de uma forma divertida</p>
+      <p className="lead">Aprenda inglês de uma forma divertida</p>
       <form onSubmit={handleSubmit}>
         <div className="mb-3">
           <input
