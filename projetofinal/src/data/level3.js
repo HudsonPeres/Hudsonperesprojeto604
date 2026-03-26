@@ -1,53 +1,53 @@
 const level3Questions = [
   {
-    text: "What is the color of the sky?",
-    options: ["Blue", "Yellow", "Green", "White"],
-    correct: "Blue"
+    text: "Which planet is known as the Red Planet?",
+    options: ["Mars", "Saturn", "Earth", "Neptune"],
+    correct: "Mars"
   },
   {
-    text: "What is the color of the sky?",
-    options: ["Blue", "Yellow", "Green", "White"],
-    correct: "Blue"
+    text: "How many continents are there in the world?",
+    options: ["five", "six", "seven", "eight"],
+    correct: "seven"
   },
   {
-    text: "What is the color of the sky?",
-    options: ["Blue", "Yellow", "Green", "White"],
-    correct: "Blue"
+    text: "What is the largest ocean on Earth?",
+    options: ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+    correct: "Pacific Ocean"
   },
   {
-    text: "What is the color of the sky?",
-    options: ["Blue", "Yellow", "Green", "White"],
-    correct: "Blue"
+    text: "Which animal is the largest land animal?",
+    options: ["Lion", "Elephant", "Giraffe", "Horse"],
+    correct: "Elephant"
   },
   {
-    text: "What is the color of the sky?",
-    options: ["Blue", "Yellow", "Green", "White"],
-    correct: "Blue"
+    text: "Which country is famous for the pyramids?",
+    options: ["Brazil", "India", "Egypt", "Mexico"],
+    correct: "Egypt"
   },
   {
-    text: "What is the color of the sky?",
-    options: ["Blue", "Yellow", "Green", "White"],
-    correct: "Blue"
+    text: "What is the boiling point of water?",
+    options: ["fifty degrees", "fifteen degrees", "one hundred degrees", "thousand degreesC"],
+    correct: "one hundred degrees"
   },
   {
-    text: "What is the color of the sky?",
-    options: ["Blue", "Yellow", "Green", "White"],
-    correct: "Blue"
+    text: "Which language is spoken in the United Kingdom?",
+    options: ["Spanish", "French", "English", "German"],
+    correct: "English"
   },
   {
-    text: "What is the color of the sky?",
-    options: ["Blue", "Yellow", "Green", "White"],
-    correct: "Blue"
+    text: "What is the fastest land animal?",
+    options: ["Lion", "Tiger", "Cheetah", "Horse"],
+    correct: "Cheetah"
   },
   {
-    text: "What is the color of the sky?",
-    options: ["Blue", "Yellow", "Green", "White"],
-    correct: "Blue"
+    text: "Which planet is the biggest in our solar system?",
+    options: ["Earth", "Jupiter", "Saturn", "Mars"],
+    correct: "Jupiter"
   },
   {
-    text: "What is the color of the sky?",
-    options: ["Blue", "Yellow", "Green", "White"],
-    correct: "Blue"
+    text: "How many hours are there in a day?",
+    options: ["twelve", "twenty", "twenty-four", "thirty-four"],
+    correct: "twenty-four"
   },
   
 ];

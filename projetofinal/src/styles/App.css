@@ -1,38 +1,50 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap');
+
+body {
+  background-color: #f9f9f9;
+  font-family: 'Nunito', sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.btn-success {
+  background-color: #58cc71;
+  border-color: #58cc71;
+  font-weight: 600;
+  border-radius: 12px;
+  transition: all 0.2s;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.btn-success:hover {
+  background-color: #3cad54;
+  border-color: #3cad54;
+  transform: scale(1.02);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.card {
+  border-radius: 20px;
+  border: none;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
-.App-link {
-  color: #61dafb;
+.btn-outline-secondary {
+  border-radius: 16px;
+  padding: 12px;
+  font-weight: 500;
+  transition: all 0.2s;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.btn-outline-secondary:hover:not(:disabled) {
+  transform: translateY(-2px);
+  background-color: #e9ecef;
+}
+
+.btn-primary {
+  background-color: #58cc71;
+  border-color: #58cc71;
+}
+
+.btn-primary:hover {
+  background-color: #3cad54;
+  border-color: #3cad54;
 }

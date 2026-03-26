@@ -1,53 +1,53 @@
 const level1Questions = [
-  {
-    text: "What is the color of the sky?",
-    options: ["Blue", "Yellow", "Green", "White"],
-    correct: "Blue"
+ {
+    text: "What color is the sun?",
+    options: ["Yellow", "Blue", "Green", "Black"],
+    correct: "Yellow"
   },
   {
-    text: "What is the color of the sky?",
-    options: ["Blue", "Yellow", "Green", "White"],
-    correct: "Blue"
+    text: "How many days are in a week?",
+    options: ["seventeen", "seven thousand", "seven", "seventy"],
+    correct: "seven"
   },
   {
-    text: "What is the color of the sky?",
-    options: ["Blue", "Yellow", "Green", "White"],
-    correct: "Blue"
+    text: "What do we use to drink water?",
+    options: ["Plate", "Cup", "Fork", "Knife"],
+    correct: "Cup"
   },
   {
-    text: "What is the color of the sky?",
-    options: ["Blue", "Yellow", "Green", "White"],
-    correct: "Blue"
+    text: "Which animal says 'meow'?",
+    options: ["Dog", "Cat", "Cow", "Bird"],
+    correct: "Cat"
   },
   {
-    text: "What is the color of the sky?",
-    options: ["Blue", "Yellow", "Green", "White"],
-    correct: "Blue"
+    text: "What color is grass?",
+    options: ["Blue", "Green", "Red", "Purple"],
+    correct: "Green"
   },
   {
-    text: "What is the color of the sky?",
-    options: ["Blue", "Yellow", "Green", "White"],
-    correct: "Blue"
+    text: "How many legs does a dog have?",
+    options: ["two", "three", "four", "five"],
+    correct: "four"
   },
   {
-    text: "What is the color of the sky?",
-    options: ["Blue", "Yellow", "Green", "White"],
-    correct: "Blue"
+    text: "What do we use to write?",
+    options: ["Spoon", "Pencil", "Plate", "Cup"],
+    correct: "Pencil"
   },
   {
-    text: "What is the color of the sky?",
-    options: ["Blue", "Yellow", "Green", "White"],
-    correct: "Blue"
+    text: "Which fruit is yellow?",
+    options: ["Apple", "Banana", "Grape", "Orange"],
+    correct: "Banana"
   },
   {
-    text: "What is the color of the sky?",
-    options: ["Blue", "Yellow", "Green", "White"],
-    correct: "Blue"
+    text: "What is three + two ?",
+    options: ["fifteen", "fifty", "fiveteen", "five"],
+    correct: "five"
   },
   {
-    text: "What is the color of the sky?",
-    options: ["Blue", "Yellow", "Green", "White"],
-    correct: "Blue"
+    text: "Where do fish live?",
+    options: ["Sky", "Water", "Tree", "House"],
+    correct: "Water"
   },
   
 ];
